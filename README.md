@@ -14,4 +14,4 @@
 # Part 3 Arm Servo Drive
 + Servo drive board was developed.
 + 7-sections S curve was used to adjust the speed of servo to avoid abrupt change of its angular acceleration, in which way the impact on the aircraft caused by the sudden movement of the robotic arm was eased.
-+ ![](S-Curve.png)
++ ![](/S-Curve/S-Curve.png)
