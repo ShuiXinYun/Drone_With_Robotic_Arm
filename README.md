@@ -9,7 +9,8 @@
 # Part 2 Control Program
 + Based on Ubuntu 14.04 with python 2.7 、PyQt4、ROS Indigo、Leap Motion SDK
 + Kinematic inverse solution for the Robotic Arm was built and UI program to interact was developed.
-+ <iframe width="560" height="315" src="https://www.youtube.com/embed/pT87frJrrzI" frameborder="0" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pT87frJrrzI" frameborder="0" allowfullscreen></iframe>
 
 # Part 3 Arm Servo Drive
 + Servo drive board was developed.
