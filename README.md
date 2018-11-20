@@ -5,11 +5,15 @@
 
 ## Part 1 Robotic Arm Design
 + A 6-DOF Robotic Arm was designed with Catia and manufactured with alumunum alloys.
++ ![](./Model.jpg)
 
 ## Part 2 Control Program
 + Based on Ubuntu 14.04 with python 2.7 、PyQt4、ROS Indigo、Leap Motion SDK
 + Kinematic inverse solution for the Robotic Arm was built and UI program to interact was developed.
 + [Arm Controlled using GUI, ROS Rviz Environment](https://www.youtube.com/embed/pT87frJrrzI).
++ ![](./GUI.png)
++ Leap Motion and Kinect program to illustrate the input of the control .
++ ![](./LeapMotion.jpg)
 
 ## Part 3 Arm Servo Drive
 + Servo drive board was developed.
